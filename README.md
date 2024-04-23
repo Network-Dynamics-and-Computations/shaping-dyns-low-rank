@@ -1,4 +1,4 @@
-# low-rank2020
+# shaping-dyns-low-rank
 These are the codes for the research article:
 
 Beiran, M., Dubreuil, A., Valente, A., Mastrogiuseppe, F., & Ostojic, S. (2021). Shaping dynamics with multiple populations in low-rank recurrent networks. Neural Computation, 33(6), 1572-1615
